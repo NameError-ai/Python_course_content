@@ -118,4 +118,5 @@ This is the course which will give the information from **zero to hero**, in thi
 	11.7. Tools for Working with Lists
 	11.8. Decimal Floating Point Arithmetic
 
-Python syllabus from https://nameerror.ai/
+
+@NameError :+1: we named error but to solve error - ***Name Error with No Error*** ! :shipit:
